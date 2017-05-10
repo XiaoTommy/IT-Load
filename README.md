@@ -9,7 +9,7 @@ This is my IT-load. I had always told myself, "this is your life what you want?"
 <br />
 爱家人，爱生活，爱代码，爱小东；<br />
 爱PHP，爱Web，爱Python，爱CV；<br />
-爱民谣，爱运动，爱旅行，爱美女；<br />
+爱民谣，爱运动，爱旅行，爱艺术；<br />
 人如果没有梦想，和咸鱼又有什么区别？<br />
 即使是翻身的咸鱼，也要做一条有梦想的翻身咸鱼！<br />
 <br />
