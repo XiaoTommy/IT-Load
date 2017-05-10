@@ -1,4 +1,4 @@
-# IT-Load
+# 小东的 IT 哲学
 Python 有他的哲学，那我小东也有我的哲学。            --小东的IT之路<br />
 <br />
 This is my IT-load. I had always told myself, "this is your life what you want?". What should you do if there is no way!<br />
