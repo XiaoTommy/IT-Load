@@ -25,6 +25,7 @@ This is my IT-load. I had always told myself, "this is your life what you want?"
 <br />
 每个程序员上辈子都是折翼的天使；<br />
 每个程序员上辈子都是流浪的歌手；<br />
+每个程序员上辈子都是以梦为马的诗人；<br />
 每个程序员上辈子都是推动巨石的西西弗斯；<br />
 每个程序员上辈子都是来自地狱的泰坦。<br />
 <br />
